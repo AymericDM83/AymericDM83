@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**AymericDM83/AymericDM83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Aymeric+!;" />
+</h1>
 
-Here are some ideas to get you started:
+<h5 align="center">Programming languages</h5>
+<div align="center"><img src="https://skillicons.dev/icons?i=js,ts,java" /></div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5 align="center">Technologies & Frameworks</h5>
+<div align="center"><img src="https://skillicons.dev/icons?i=react,vue,sass,tailwind,spring,cypress,express,mysql,mongodb" /></div>
+
+<h5 align="center">Tools</h5>
+<div align="center"><img src="https://skillicons.dev/icons?i=vite,npm,gitlab,github,git,figma,vscode," /></div>
+
+<hr/>
+
+
+<div align=center><img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aymericDM83&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></div>
