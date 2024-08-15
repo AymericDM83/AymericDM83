@@ -10,5 +10,5 @@
 <div align="center"><img src="https://skillicons.dev/icons?i=react,vue,sass,tailwind,spring,mysql" /></div>
 
 <h5 align="center">Tools</h5>
-<div align="center"><img src="https://skillicons.dev/icons?i=vite,npm,gitlab,github,git,figma,vscode," /></div>
+<div align="center"><img src="https://skillicons.dev/icons?i=vite,npm,gitlab,git,vscode," /></div>
 
